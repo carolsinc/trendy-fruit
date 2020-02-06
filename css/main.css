@@ -7,11 +7,11 @@
 html {
   box-sizing: border-box;
 
--moz-text-size-adjust: 100%;
--ms-text-size-adjust: 100%;
--webkit-text-size-adjust: 100%;
-text-size-adjust: 100%;
-font-family: "Open Sans", sans-serif;
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  font-family: "Open Sans", sans-serif;
 }
 
 *, *::before, *::after {
@@ -38,10 +38,10 @@ body {
   font-family: "Rammetto One", cursive;
 }
 
-.s-font{
+.s-font {
   font-family: "Gravitas One", cursive;
 }
 
-.p-font{
+.p-font {
   font-family: Comfortaa, cursive;
 }
